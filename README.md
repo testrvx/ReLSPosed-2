@@ -29,7 +29,7 @@ Note: debug builds are only available in Github Actions.
 
 ## Get Help
 **Only bug reports from **THE LATEST DEBUG BUILD** will be accepted.**
-- GitHub issues: [Issues](https://github.com/JingMatrix/LSPosed/issues/)
+- GitHub issues: [Issues](https://github.com/ThePedroo/ReLSPosed/issues/)
 - (For Chinese speakers) 本项目只接受英语**标题**的issue。如果您不懂英语，请使用[翻译工具](https://www.deepl.com/zh/translator)
 
 ## For Developers
@@ -44,7 +44,7 @@ We use our own module repository. We welcome developers to submit modules to our
 
 ## Community Discussion
 
-[Troubleshooting guide](https://github.com/JingMatrix/LSPosed/issues/123) and [Disscusions](https://github.com/JingMatrix/LSPosed/discussions).
+[Troubleshooting guide](https://github.com/ThePedroo/ReLSPosed/issues/123) and [Disscusions](https://github.com/ThePedroo/ReLSPosed/discussions).
 
 ## Translation Contributing
 
